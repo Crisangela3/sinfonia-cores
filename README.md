@@ -1,3 +1,42 @@
+# 🎹 Sinfonia de Cores - Jogo de Memória
+
+Um jogo de memória auditiva e visual inspirado no clássico "Simon Says", mas com uma estética "Zen" e minimalista. O objetivo é repetir sequências musicais que aumentam de dificuldade a cada nível.
+
+## 🚀 Tecnologias Utilizadas
+* **Next.js 14**
+* **Tailwind CSS**
+* **Web Audio API** (Para gerar os tons musicais matematicamente)
+* **Framer Motion** (Para feedback visual e transições)
+
+## 🎮 Funcionalidades
+* **Geração de Som em Tempo Real**: Cada cor possui uma nota musical única gerada via código.
+* **Sistema de Níveis**: A cada acerto, uma nova nota é adicionada à sequência.
+* **Feedback Adaptativo**: Botões iluminam-se para guiar o usuário durante a fase de exibição.
+* **Manual do Usuário**: Modal explicativo integrado ao design.
+
+## 🛠️ Instalação
+1. `npm install`
+2. `npm run dev`
+
+
+# 🎹 Sinfonia de Cores - Multiplataforma
+
+Jogo de memória responsivo e acessível. Agora com suporte total a teclado e dispositivos móveis.
+
+## 🚀 Novas Funcionalidades
+* **Controle por Teclado**: Use números (1-4) ou setas para jogar.
+* **Touch-Friendly**: Otimizado para telas de toque com eventos de ponteiro de alta velocidade.
+* **Interface Adaptativa**: Feedback visual que funciona tanto no clique quanto no toque.
+
+## 🛠️ Tecnologias
+* Next.js, Tailwind CSS, Framer Motion, Web Audio API.
+
+
+"Atualização no Sinfonia de Cores! 🎹 Agora o jogo é 100% acessível: jogue pelo teclado (1-4/setas), mouse ou toque no celular. 
+🚀 Otimizar para múltiplos dispositivos é essencial no desenvolvimento web moderno! #Acessibilidade #WebDev #MobileFirst #NextJS"
+
+  ==============================================================================================================================================
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
